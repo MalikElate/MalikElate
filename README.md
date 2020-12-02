@@ -1,19 +1,21 @@
-# Hi I'm Malik Elate,  👋
+# Malik Elate
 
-<!--
-**MalikElate/MalikElate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack software developer currently at <a href="https://primeacademy.io/">Prime digital academy</a>, 
 
-Here are some ideas to get you started:
+an full-time and totally immersive coding boot-camp. My favorite part of Prime is working in pairs and teams on projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## contact me
-•LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a><br /> 
-•Email: Malik.e1955@gmail.com
+to complete challenging projects. If you'd like to know more please reach on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. 
+
+
+
+
+# Favorite technologies 
+
+## What I'm working on 
+
+## What I find exciting 
+
+## Contact me
+• LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a><br /> 
+• Email: Malik.e1955@gmail.com 
+• My portfolio: MalikElate.io
