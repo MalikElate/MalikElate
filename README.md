@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## contact me
-•LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a>
-<br /> 
+•LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a><br /> 
 •Email: Malik.e1955@gmail.com
