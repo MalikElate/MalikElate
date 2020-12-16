@@ -3,7 +3,7 @@
 I'm a fullstack software developer currently at <a href="https://primeacademy.io/">Prime digital academy</a>, a full-time and totally immersive coding boot-camp. My favorite part of Prime is working in pairs and teams on challenging projects. If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. In addition, check out my work at MalikElate.io
 
 ## What I'm working on 
-• Improving my personal site: MalikElate.io 
+• Improving my personal site: MalikElate.com 
 
 • React tic-tac-toe: <a href="">repository</a>
 
