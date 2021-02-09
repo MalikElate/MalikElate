@@ -5,9 +5,9 @@ I'm a fullstack software developer currently at <a href="https://primeacademy.io
 ## What I'm working on 
 • Improving my personal site: MalikElate.com 
 
-• React tic-tac-toe: <a href="">repository</a>
+• React rideshare profit software: <a href="">repository</a>
 
-• A language learning application: repository 
+• A language learning application: Topo 
 
 ## What I find exciting 
 • Camping and hiking with my friends and pup 
@@ -17,9 +17,9 @@ I'm a fullstack software developer currently at <a href="https://primeacademy.io
 • Building applications that people rely on
 
 ## Favorite technologies (listed in order)
-• Front end: React.js, Boostrap, HTML 
+• Front end: React.js, Typescript, HTML 
 
-• Back end: Node, Python, Flask 
+• Back end: Node, Python, Flask
 
 • Hardware: Oculus Quest, MacBook Pro, Whoop Strap
 
