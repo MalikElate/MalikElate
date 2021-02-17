@@ -3,7 +3,7 @@
 I'm a fullstack software developer currently at <a href="https://primeacademy.io/">Prime digital academy</a>, a full-time and totally immersive coding program. My favorite part of Prime is working in pairs and teams on challenging projects. If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. In addition, check out my work at  <a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
 
 ## What I'm working on 
-• Improving my personal site: MalikElate.com 
+• Improving my personal site:<a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
 
 • React rideshare profit software: <a href="https://github.com/MalikElate/rideshare-ranger" target="_blank">repository</a>
 
