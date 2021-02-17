@@ -5,7 +5,7 @@ I'm a fullstack software developer currently at <a href="https://primeacademy.io
 ## What I'm working on 
 • Improving my personal site: MalikElate.com 
 
-• React rideshare profit software: <a href="">repository</a>
+• React rideshare profit software: <a href="https://github.com/MalikElate/rideshare-ranger">repository</a>
 
 • A language learning application: Topo 
 
