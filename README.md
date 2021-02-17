@@ -28,4 +28,4 @@ I'm a fullstack software developer currently at <a href="https://primeacademy.io
 
 • Email: Malik.e1955@gmail.com
 
-• My portfolio: MalikElate.io
+• My portfolio: MalikElate.com
