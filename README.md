@@ -26,6 +26,4 @@ I'm a fullstack software developer currently studying at the University of Minne
 ## Contact me
 • LinkedIn: <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">Malik Elate</a>
 
-• Email: Malik.e1955@gmail.com
-
 • My portfolio:  <a href="https://malikelate.com" target="_blank">MalikElate.com</a>
