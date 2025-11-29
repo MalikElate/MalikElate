@@ -1,6 +1,6 @@
 # Malik Elate
 
-I'm a fullstack software developer currently studying at the University of Minnesota Duluth. My development experience includes <a href="https://primeacademy.io/">Prime Digital Academy</a> a full-time and totally immersive coding program. My favorite part of Prime was working in pairs and teams on challenging projects. If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. In addition, check out my work at  <a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
+Dev! If you'd like to know more please reach me on <a href="https://www.linkedin.com/in/malik-elate-829226200/" target="_blank">LinkedIn</a>. In addition, check out my work at  <a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
 
 ## What I'm coding 
 • Improving my personal site: <a href="https://malikelate.com" target="_blank" target="_blank">MalikElate.com</a>
